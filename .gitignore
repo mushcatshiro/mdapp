@@ -1,0 +1,8 @@
+mdapp/
+__pycache__/
+static/
+.vscode/
+*.db
+*.log
+.env
+migrations/
