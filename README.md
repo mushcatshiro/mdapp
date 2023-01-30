@@ -30,7 +30,7 @@ to facilitate a markdown based wiki which the data are all stored in remote git 
 - [ ] access control
 - [ ] markdown
     - [ ] styling
-    - [ ] multi-level unordered list
+    - [ ] multi-level unordered list (tab_length?)
 
 
 ## known limitations
